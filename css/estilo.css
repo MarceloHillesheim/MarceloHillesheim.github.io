@@ -1,0 +1,36 @@
+		body{
+			color: white;
+			overflow: hidden auto;
+		}
+
+		h1{
+			padding: 10px;
+			background-image: linear-gradient(to right, gray, black);
+			color: white;
+			text-align: center;
+			font-family: Lora, serif;
+			font-size: 50px;
+		}
+
+		.foto{
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			border: 4px solid gray;
+		}
+
+		p{
+			font-size:20px;
+			font-family: Noto Serif, serif;
+			padding: 10px;
+		}
+
+		#fundo{
+			background-image: url(imagens/fundo.jpg);
+			height: 1870px;
+			z-index: -1;
+			display: auto;
+			position: absolute;
+			top: 0;
+			left: 0;	
+		}
