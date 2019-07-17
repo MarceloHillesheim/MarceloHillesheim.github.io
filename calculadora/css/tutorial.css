@@ -1,0 +1,16 @@
+body{
+    background-image:linear-gradient(to right, black, gray);
+    color: white;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+#divCentral{
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 400px;
+}
